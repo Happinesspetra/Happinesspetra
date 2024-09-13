@@ -67,22 +67,24 @@ She/Her
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Happinesspetra&show_icons=true&theme=tokyonight)
 
 ### 🔝 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Happinesspetra&layout=compact&theme=tokyonight)
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/your-profile/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/YourGitHubUsername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=Google-Chrome&logoColor=white)](https://www.your-portfolio.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/happiness-michael-26b20a244
+)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Happinesspetra)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=Google-Chrome&logoColor=white)](https://happy-chi-ten.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=Google-Chrome&logoColor=white)](https://hap-happiness-michaels-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=Google-Chrome&logoColor=white)](https://happibo-portfolio.vercel.app/)
 Feel free to reach out for collaborations or just a chat about web development!
 
 </div>
 
 ---
 
-⭐️ From [HappiBo](https://github.com/YourGitHubUsername)
+⭐️ From [HappiBo](https://github.com/Happinesspetra)
