@@ -79,7 +79,7 @@ She/Her
 )
 [![GitHub](https://img.shields.io/badge/-GitHub-032B44?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Happinesspetra)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-87CEEB?style=flat-square&logo=Google-Chrome&logoColor=white)](https://happy-chi-ten.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-786C3B?style=flat-square&logo=Google-Chrome&logoColor=white)](https://hap-happiness-michaels-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF99CC?style=flat-square&logo=Google-Chrome&logoColor=white)](https://hap-happiness-michaels-projects.vercel.app/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6c5ce7?style=flat-square&logo=Google-Chrome&logoColor=white)](https://happibo-portfolio.vercel.app/)
 
 Feel free to reach out for collaborations or just a chat about web development!
