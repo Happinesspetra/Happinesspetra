@@ -78,9 +78,9 @@ She/Her
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/happiness-michael-26b20a244
 )
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Happinesspetra)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00CED1?style=flat-square&logo=Google-Chrome&logoColor=white)](https://happy-chi-ten.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=Google-Chrome&logoColor=white)](https://hap-happiness-michaels-projects.vercel.app/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-95EFZ0?style=flat-square&logo=Google-Chrome&logoColor=white)](https://happibo-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-87CEEB?style=flat-square&logo=Google-Chrome&logoColor=white)](https://happy-chi-ten.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-B19CD9?style=flat-square&logo=Google-Chrome&logoColor=white)](https://hap-happiness-michaels-projects.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FFC0CB?style=flat-square&logo=Google-Chrome&logoColor=white)](https://happibo-portfolio.vercel.app/)
 
 Feel free to reach out for collaborations or just a chat about web development!
 
